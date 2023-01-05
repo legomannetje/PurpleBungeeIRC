@@ -12,5 +12,5 @@
 .nb-gradle
 
 /bin/
-/build/
+# /build/
 /*.code-workspace
